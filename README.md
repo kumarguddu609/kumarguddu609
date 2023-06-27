@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://twitter.com/k_guddu609" target="blank"><img src="https://img.shields.io/twitter/follow/k_guddu609?logo=twitter&style=for-the-badge" alt="k_guddu609" /></a> </p>
 <img src="./gif.gif" align="right" alt="profile-gif" height="300px">
+
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/guddu.k](https://linktr.ee/guddu.k)
