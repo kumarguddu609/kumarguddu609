@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Guddu Kumar</h1>
-<img src="./gif.gif" align="right" alt="profile-gif" height="300px">
+<img src="./gif.gif" align="right" alt="profile-gif" height="200px">
 <h3 align="center">A passionate frontend developer and Graphic Designer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kumarguddu609&label=Profile%20views&color=0e75b6&style=flat" alt="kumarguddu609" /> </p>
