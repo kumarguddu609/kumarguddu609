@@ -1,0 +1,13 @@
+<svg width="900" height="420" viewBox="0 0 900 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub metrics placeholder">
+  <rect width="900" height="420" rx="24" fill="#0F172A"/>
+  <rect x="24" y="24" width="852" height="372" rx="20" fill="url(#paint0_linear)"/>
+  <text x="50%" y="160" text-anchor="middle" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="34" font-weight="700">GitHub Metrics</text>
+  <text x="50%" y="210" text-anchor="middle" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="20">This card will be replaced automatically by the workflow.</text>
+  <text x="50%" y="248" text-anchor="middle" fill="#93C5FD" font-family="Arial, sans-serif" font-size="18">Run "Update GitHub Metrics" once after pushing the repo.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="60" y1="40" x2="860" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,53 +1,178 @@
-<!--
-**kumarguddu609/kumarguddu609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Guddu Kumar</h1>
-
-<h3 align="center">A passionate frontend developer and Graphic Designer from India</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kumarguddu609&label=Profile%20views&color=0e75b6&style=flat" alt="kumarguddu609" /> </p>
-
-<p align="center"> <a href="https://twitter.com/k_guddu609" target="blank"><img src="https://img.shields.io/twitter/follow/k_guddu609?logo=twitter&style=for-the-badge" alt="k_guddu609" /></a> </p>
-<img src="./gif.gif" align="right" alt="profile-gif" height="300px">
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/guddu.k](https://linktr.ee/guddu.k)
-
-- 📫 How to reach me **kumarguddu609@gmail.com**
-
-- 📄 Know about my experiences [https://linktr.ee/guddu.k](https://linktr.ee/guddu.k)
-
-- ⚡ Fun fact **I am very boring in person😯**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/kumarguddu609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kumarguddu609" height="30" width="40" /></a>
-<a href="https://twitter.com/k_guddu609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_guddu609" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guddu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guddu" height="30" width="40" /></a>
-<a href="https://instagram.com/camerawalaguddu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="camerawalaguddu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kumarguddu609" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kumarguddu609" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kumarguddu609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kumarguddu609" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kumarguddu609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumarguddu609" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kumargujpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumargujpit" height="30" width="40" /></a>
+<h1 align="center">Guddu Kumar</h1>
+<p align="center">
+  <strong>Full Stack Engineer building AI products from zero to production</strong>
+</p>
+<p align="center">
+  Next.js • TypeScript • Python • FastAPI • MCP • LangGraph • RAG • Vercel
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:kumarguddu609@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kumarguddu609%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://linkedin.com/in/guddu">
+    <img src="https://img.shields.io/badge/LinkedIn-guddu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://github.com/kumarguddu609">
+    <img src="https://img.shields.io/badge/GitHub-kumarguddu609-111827?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarguddu609&show_icons=true&locale=en&layout=compact" alt="kumarguddu609" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumarguddu609&label=Profile%20Views&color=0f172a&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/kumarguddu609?style=for-the-badge&logo=github&color=2563eb" alt="followers" />
+  <img src="https://img.shields.io/github/actions/workflow/status/kumarguddu609/kumarguddu609/readme-metrics.yml?style=for-the-badge&label=metrics" alt="metrics workflow" />
+  <img src="https://img.shields.io/github/actions/workflow/status/kumarguddu609/kumarguddu609/contribution-snake.yml?style=for-the-badge&label=snake" alt="snake workflow" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarguddu609&show_icons=true&locale=en" alt="kumarguddu609" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Working%20On-Curifin-0f172a?style=flat-square" alt="Currently working on Curifin" />
+  <img src="https://img.shields.io/badge/Building-Srijak%20Labs-1d4ed8?style=flat-square" alt="Building Srijak Labs" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarguddu609&" alt="kumarguddu609" /></p>
+<p align="center">
+  <a href="mailto:kumarguddu609@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-16a34a?style=for-the-badge" alt="Open to freelance projects" />
+  </a>
+  <a href="mailto:kumarguddu609@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Roles-2563eb?style=for-the-badge" alt="Open to full stack roles" />
+  </a>
+</p>
+
+## About Me
+
+- Full Stack Engineer with 2+ years of experience shipping AI-powered products end to end.
+- Founding engineer at an AI product studio, owning architecture across frontend, backend, and LLM layers.
+- Built and launched 3 live AI platforms, including a U.S. stock research product, an Indian market research platform, and enterprise AI solutions.
+- Strong in MCP-based orchestration, RAG pipeline design, prompt engineering, async systems, and production-grade AI reliability.
+- Comfortable moving from pixel-precise Next.js interfaces to FastAPI services, model routing, observability, and CI/CD.
+
+## Impact Snapshot
+
+| Metric | Result |
+| --- | --- |
+| Live AI products shipped | 3 |
+| AI response latency improvement | 75% reduction |
+| Model providers unified | OpenAI + Anthropic |
+| Release velocity improvement | 40% faster |
+
+## Core Strengths
+
+- Full-stack product engineering from polished Next.js interfaces to FastAPI and Node.js backends.
+- AI system design including MCP orchestration, RAG pipelines, tool-calling workflows, and model routing.
+- Performance optimization across async execution, caching, streaming responses, and production reliability.
+- Product-focused delivery with secure auth flows, RBAC, observability, CI/CD, and zero-downtime releases.
+
+## What I’m Building
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://insighthread.com">Insighthread</a> — U.S. Financial Research Platform</h3>
+      <p><strong>Next.js</strong> · <strong>TypeScript</strong> · <strong>FastAPI</strong> · <strong>Python</strong> · <strong>Supabase</strong> · <strong>MCP</strong></p>
+      <p>A production-grade SEC-compliant research platform aggregating filings, earnings transcripts, and statements for 6,000+ U.S. public companies.</p>
+      <ul>
+        <li>Built real-time AI chat enabling multi-step reasoning over structured and unstructured financial data.</li>
+        <li>Architected a custom MCP server for LLM tool-call orchestration and retrieval pipelines.</li>
+        <li>Cut AI response latency by 75% using async handling, semantic caching, and model routing.</li>
+        <li>Secured the platform with Supabase RBAC and shipped through Vercel CI/CD with zero-downtime releases.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://curifin.com">Curifin</a> — Indian Market Research Platform</h3>
+      <p><strong>Next.js</strong> · <strong>TypeScript</strong> · <strong>FastAPI</strong> · <strong>Python</strong></p>
+      <p>Full-featured NSE/BSE research platform with live data, sector heatmaps, screener, watchlists, and portfolio tracking for 2,000+ listed stocks.</p>
+      <ul>
+        <li>Shipped AI research chat with streaming LLM responses for Nifty 50, Sensex, and Bank Nifty analysis.</li>
+        <li>Delivered Pro-tier features including LLM-driven insights, personalized workflows, and an earnings calendar with real-time alerts.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://srijaklabs.com">Srijak Labs</a> — Enterprise AI Solutions</h3>
+      <p><strong>Next.js</strong> · <strong>Node.js</strong> · <strong>Python</strong> · <strong>LangChain</strong></p>
+      <p>AI-enabled web products for Indian businesses across fintech, legal, and enterprise verticals.</p>
+      <ul>
+        <li>Designed LangChain agent pipelines for document intelligence and workflow automation.</li>
+        <li>Owned full-stack architecture, REST API design, and cloud deployment for multiple enterprise clients.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Tech I Ship With
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Languages</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,js,py,postgres" alt="TypeScript, JavaScript, Python, SQL" />
+      </p>
+      <p><strong>TypeScript</strong> • JavaScript • Python • SQL</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Frontend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" alt="Next.js, React, Tailwind CSS, HTML5, CSS3" />
+      </p>
+      <p><strong>Next.js</strong> • React • Tailwind CSS • shadcn/ui • HTML5/CSS3</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend, AI & Infra</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,supabase,docker,aws,vercel" alt="FastAPI, Node.js, PostgreSQL, Redis, Supabase, Docker, AWS, Vercel" />
+      </p>
+      <p><strong>FastAPI</strong> • Node.js • LangChain • LangGraph • MCP • OpenAI • Anthropic</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Architecture & Workflow</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,aws" alt="Git, GitHub, Docker, Linux, Vercel, AWS" />
+      </p>
+      <p><strong>CI/CD</strong> • RAG pipelines • async systems • observability • auth flows • production delivery</p>
+    </td>
+  </tr>
+</table>
+
+## GitHub Signal
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumarguddu609&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarguddu609&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarguddu609&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="49%" src="./assets/github-metrics.svg" alt="GitHub metrics" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kumarguddu609&bg_color=0d1117&color=60a5fa&line=38bdf8&point=f8fafc&area=true&hide_border=true" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./assets/github-isocalendar.svg" alt="Contribution calendar heatmap" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img alt="Contribution snake" src="./assets/contribution-snake.svg" />
+</picture>
+
+## Connect
+
+<p>
+  <a href="https://codepen.io/kumarguddu609"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+  <a href="https://twitter.com/k_guddu609"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/camerawalaguddu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.codechef.com/users/kumarguddu609"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/@kumarguddu609"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.leetcode.com/kumarguddu609"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</p>
