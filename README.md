@@ -140,32 +140,6 @@
   </tr>
 </table>
 
-## GitHub Signal
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumarguddu609&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarguddu609&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarguddu609&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img width="49%" src="./assets/github-metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kumarguddu609&bg_color=0d1117&color=60a5fa&line=38bdf8&point=f8fafc&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img width="100%" src="./assets/github-isocalendar.svg" alt="Contribution calendar heatmap" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
-  <img alt="Contribution snake" src="./assets/contribution-snake.svg" />
-</picture>
-
 ## Connect
 
 <p>
